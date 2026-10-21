@@ -1,1 +1,2 @@
 Hello from Pich
+I am learning Git with Coco.
